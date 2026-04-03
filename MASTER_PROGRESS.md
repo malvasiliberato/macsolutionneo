@@ -38,6 +38,7 @@ Questa plancia sintetica governa l'avanzamento del workspace Mac Solution Neo. S
 - Il workspace e' ora predisposto anche per:
   - versionamento Git locale;
   - auto deploy prudente su Plesk tramite script `scripts/deploy/plesk/post-deploy.sh`;
+  - webhook GitHub attivi verso i repository Plesk di `app.macsolutionroom.net` e `staging.macsolutionroom.net`;
   - senza introdurre ancora pipeline CI/CD piu' pesanti del necessario.
 
 ## Step iniziali raccomandati
